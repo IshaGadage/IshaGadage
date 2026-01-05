@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isha Gadage</h1>
 <h3 align="center">
-Software Engineer | Java Full Stack Developer | AI & Backend Enthusiast | 2025 Graduate
+Software Engineer | Java Full Stack Developer | AI & Backend Enthusiast 
 </h3>
 
 <p align="center">
